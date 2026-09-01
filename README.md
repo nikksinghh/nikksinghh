@@ -47,7 +47,7 @@ A CRUD operation website built using HTML, CSS and JavaScript.
 ### 💼 Portfolio Website
 My personal portfolio website showcasing my skills, projects and education.
 
-🔗 [Live Demo]((https://portfolio-alpha-six-58.vercel.app/))  
+🔗 [Live Demo](https://portfolio-alpha-six-58.vercel.app/)
 💻 [Source Code](https://github.com/nikksinghh/Portfolio)
 
 ## 🐍 My Contributions
