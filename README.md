@@ -42,13 +42,19 @@ A responsive radio website built using HTML, CSS and JavaScript.
 A CRUD operation website built using HTML, CSS and JavaScript.
 
 🔗 [Live Demo](https://js-project-nine-alpha.vercel.app/)  
-💻 [Source Code]([YOUR_CRUD_GITHUB_LINK](https://github.com/nikksinghh/JsProject))
+💻 [Source Code](https://github.com/nikksinghh/JsProject)
 
 ### 💼 Portfolio Website
 My personal portfolio website showcasing my skills, projects and education.
 
 🔗 [Live Demo]((https://portfolio-alpha-six-58.vercel.app/))  
-💻 [Source Code]([YOUR_PORTFOLIO_GITHUB_LINK](https://github.com/nikksinghh/Portfolio))
+💻 [Source Code](https://github.com/nikksinghh/Portfolio)
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikksinghh/nikksinghh/output/snake-dark.svg" alt="GitHub contribution snake">
+</p>
 
 ## 📊 GitHub Stats
 
