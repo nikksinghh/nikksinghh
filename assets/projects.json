@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "repo": "js-project-nine-alpha",
+      "description": "CRUD operation website built with HTML, CSS and JavaScript."
+    },
+    {
+      "repo": "portfolio-alpha-six-58",
+      "description": "Personal portfolio website showcasing my skills, projects and education."
+    },
+    {
+      "repo": "nikk-radio",
+      "description": "Responsive radio website built with HTML, CSS and JavaScript."
+    }
+  ]
+}
