@@ -53,7 +53,7 @@ My personal portfolio website showcasing my skills, projects and education.
 ## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikksinghh/nikksinghh/output/snake-dark.svg" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/nikksinghh/nikksinghh/gh-pages/github-snake-dark.svg" alt="GitHub contribution snake">
 </p>
 
 ## 📊 GitHub Stats
