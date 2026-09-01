@@ -59,6 +59,5 @@ My personal portfolio website showcasing my skills, projects and education.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikksinghh&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikksinghh&layout=compact&theme=tokyonight" height="170">
+  <img src="./assets/github-stats.svg" alt="GitHub Stats">
 </p>
